@@ -24,10 +24,14 @@ namespace H1_Fødselsdagen
             //uses a calculating to get the years in integer
             int years = (int)Math.Floor(difference.TotalDays / 365.2425);
 
+            //uses a calculating to get the Days in integer 
+            birthday = birthday.AddYears(years);
+            difference = now - birthday;
+            int days = (int)Math.Floor(difference.TotalDays);
 
             //Show the result to the user
             Console.Clear();
-            Console.WriteLine(years + " År");
+            Console.WriteLine("Du er " + years + " år og " + days + " dage gammel");
 
             //Stops the program
             Console.ReadLine();
