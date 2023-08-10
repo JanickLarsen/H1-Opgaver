@@ -28,14 +28,14 @@ namespace H1_Stars_and_stripes
                         }
                         else
                         {
-                            TitelColor();
+                            TitelColor(ColorControlNumber);
                         }
                     }                 
                 }
                 else
                 {
                     for (int j = 0; j < 38; j++)
-                        TitelColor();
+                        TitelColor(ColorControlNumber);
                 }
 
                 if (ColorControlNumber == 4)
@@ -51,34 +51,34 @@ namespace H1_Stars_and_stripes
             Console.ReadLine();
 
 
-            //This control if the backgrund is red or white 
-            void TitelColor()
-            {
-                if (ColorControlNumber <= 2)
-                    Console.BackgroundColor = ConsoleColor.Red;
-                else if (ColorControlNumber <= 4)
-                    Console.BackgroundColor = ConsoleColor.White;
-                Console.Write(" ");
-            }
 
-            //Adds the stars to the flag
-            void AddStars()
-            {
-                byte moved = 0;
-                for (int i = 1; i < 10; i++)
-                {
-                    for (int j = 0; j < 6; j++)
-                    {
-                        Console.BackgroundColor = ConsoleColor.Blue;
-                        Console.SetCursorPosition(1 + (j * 4 + moved), i);
-                        Console.Write("*");
-                    }
-                    moved++;
-                    if (moved == 2)
-                        moved = 0;
-                }
-            }
+        }
+        //This control if the backgrund is red or white 
+        private static void TitelColor(byte ColorControlNumber)
+        {
+            if (ColorControlNumber <= 2)
+                Console.BackgroundColor = ConsoleColor.Red;
+            else if (ColorControlNumber <= 4)
+                Console.BackgroundColor = ConsoleColor.White;
+            Console.Write(" ");
         }
 
+        //Adds the stars to the flag
+       private static void AddStars()
+        {
+            byte moved = 0;
+            for (int i = 1; i < 10; i++)
+            {
+                for (int j = 0; j < 6; j++)
+                {
+                    Console.BackgroundColor = ConsoleColor.Blue;
+                    Console.SetCursorPosition(1 + (j * 4 + moved), i);
+                    Console.Write("*");
+                }
+                moved++;
+                if (moved == 2)
+                    moved = 0;
+            }
+        }
     }
 }
