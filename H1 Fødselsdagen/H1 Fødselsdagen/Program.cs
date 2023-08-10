@@ -11,8 +11,7 @@ namespace H1_Fødselsdagen
         static void Main()
         {
             //Gives the user informanten for the syntax of the date 
-            Console.WriteLine("Du kan skifte mønsteret ud til f.eks. dd-MM-yyyy");
-            Console.WriteLine("Det indlæste fra brugeren skal følge mønsteret 01062008");
+            Console.WriteLine("Du skal følge mønsteret dd-MM-yyyy (01062008)");
             
             //Convert the string to a DateTime
             DateTime birthday = DateTime.ParseExact(Console.ReadLine(), "ddMMyyyy", null);
