@@ -1,0 +1,8 @@
+C:\Users\zbc23jakl\source\repos\H1 BMI udregneren\H1 BMI udregneren\bin\Debug\H1 BMI udregneren.exe.config
+C:\Users\zbc23jakl\source\repos\H1 BMI udregneren\H1 BMI udregneren\bin\Debug\H1 BMI udregneren.exe
+C:\Users\zbc23jakl\source\repos\H1 BMI udregneren\H1 BMI udregneren\bin\Debug\H1 BMI udregneren.pdb
+C:\Users\zbc23jakl\source\repos\H1 BMI udregneren\H1 BMI udregneren\obj\Debug\H1 BMI udregneren.csproj.AssemblyReference.cache
+C:\Users\zbc23jakl\source\repos\H1 BMI udregneren\H1 BMI udregneren\obj\Debug\H1 BMI udregneren.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23jakl\source\repos\H1 BMI udregneren\H1 BMI udregneren\obj\Debug\H1 BMI udregneren.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 BMI udregneren\H1 BMI udregneren\obj\Debug\H1 BMI udregneren.exe
+C:\Users\zbc23jakl\source\repos\H1 BMI udregneren\H1 BMI udregneren\obj\Debug\H1 BMI udregneren.pdb
