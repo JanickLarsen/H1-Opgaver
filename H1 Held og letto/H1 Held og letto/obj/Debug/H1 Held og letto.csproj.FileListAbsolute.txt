@@ -1,0 +1,8 @@
+C:\Users\janic\source\repos\H1 Held og letto\H1 Held og letto\bin\Debug\H1 Held og letto.exe.config
+C:\Users\janic\source\repos\H1 Held og letto\H1 Held og letto\bin\Debug\H1 Held og letto.exe
+C:\Users\janic\source\repos\H1 Held og letto\H1 Held og letto\bin\Debug\H1 Held og letto.pdb
+C:\Users\janic\source\repos\H1 Held og letto\H1 Held og letto\obj\Debug\H1 Held og letto.csproj.AssemblyReference.cache
+C:\Users\janic\source\repos\H1 Held og letto\H1 Held og letto\obj\Debug\H1 Held og letto.csproj.SuggestedBindingRedirects.cache
+C:\Users\janic\source\repos\H1 Held og letto\H1 Held og letto\obj\Debug\H1 Held og letto.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\H1 Held og letto\H1 Held og letto\obj\Debug\H1 Held og letto.exe
+C:\Users\janic\source\repos\H1 Held og letto\H1 Held og letto\obj\Debug\H1 Held og letto.pdb
