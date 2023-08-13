@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1 Juletræet med sin pynt", "H1 Juletræet med sin pynt\H1 Juletræet med sin pynt.csproj", "{3433A595-BF51-413D-B94D-E75EE561F7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3433A595-BF51-413D-B94D-E75EE561F7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3433A595-BF51-413D-B94D-E75EE561F7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3433A595-BF51-413D-B94D-E75EE561F7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3433A595-BF51-413D-B94D-E75EE561F7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8743A3-55AB-4ED1-9E59-46D6B0459454}
+	EndGlobalSection
+EndGlobal

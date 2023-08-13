@@ -1,0 +1,8 @@
+C:\Users\janic\source\repos\H1 Juletræet med sin pynt\H1 Juletræet med sin pynt\bin\Debug\H1 Juletræet med sin pynt.exe.config
+C:\Users\janic\source\repos\H1 Juletræet med sin pynt\H1 Juletræet med sin pynt\bin\Debug\H1 Juletræet med sin pynt.exe
+C:\Users\janic\source\repos\H1 Juletræet med sin pynt\H1 Juletræet med sin pynt\bin\Debug\H1 Juletræet med sin pynt.pdb
+C:\Users\janic\source\repos\H1 Juletræet med sin pynt\H1 Juletræet med sin pynt\obj\Debug\H1 Juletræet med sin pynt.csproj.AssemblyReference.cache
+C:\Users\janic\source\repos\H1 Juletræet med sin pynt\H1 Juletræet med sin pynt\obj\Debug\H1 Juletræet med sin pynt.csproj.SuggestedBindingRedirects.cache
+C:\Users\janic\source\repos\H1 Juletræet med sin pynt\H1 Juletræet med sin pynt\obj\Debug\H1 Juletræet med sin pynt.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\H1 Juletræet med sin pynt\H1 Juletræet med sin pynt\obj\Debug\H1 Juletræet med sin pynt.exe
+C:\Users\janic\source\repos\H1 Juletræet med sin pynt\H1 Juletræet med sin pynt\obj\Debug\H1 Juletræet med sin pynt.pdb
