@@ -33,7 +33,7 @@ namespace H1_Held_og_letto
             {               
                 Console.Write(lotterynumbers[i] + " ");
                 //Set the Thread to sleep for 2 seconds
-                Thread.Sleep(000);
+                Thread.Sleep(2000);
             }
 
             int jokerNumber = rng.Next(1, 37);
