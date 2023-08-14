@@ -1,0 +1,8 @@
+C:\Users\zbc23jakl\source\repos\H1 Stars and stripes v2\H1 Stars and stripes v2\bin\Debug\H1 Stars and stripes v2.exe.config
+C:\Users\zbc23jakl\source\repos\H1 Stars and stripes v2\H1 Stars and stripes v2\bin\Debug\H1 Stars and stripes v2.exe
+C:\Users\zbc23jakl\source\repos\H1 Stars and stripes v2\H1 Stars and stripes v2\bin\Debug\H1 Stars and stripes v2.pdb
+C:\Users\zbc23jakl\source\repos\H1 Stars and stripes v2\H1 Stars and stripes v2\obj\Debug\H1 Stars and stripes v2.csproj.AssemblyReference.cache
+C:\Users\zbc23jakl\source\repos\H1 Stars and stripes v2\H1 Stars and stripes v2\obj\Debug\H1 Stars and stripes v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23jakl\source\repos\H1 Stars and stripes v2\H1 Stars and stripes v2\obj\Debug\H1 Stars and stripes v2.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 Stars and stripes v2\H1 Stars and stripes v2\obj\Debug\H1 Stars and stripes v2.exe
+C:\Users\zbc23jakl\source\repos\H1 Stars and stripes v2\H1 Stars and stripes v2\obj\Debug\H1 Stars and stripes v2.pdb
