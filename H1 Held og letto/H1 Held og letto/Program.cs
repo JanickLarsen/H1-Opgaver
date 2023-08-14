@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,20 +11,35 @@ namespace H1_Held_og_letto
     {
         static void Main()
         {
+            int[] lotterynumbers = new int[7];
+            
             Random rng = new Random();
             //loop for the lottery numbers
-            for (int i = 0; i < 8; i++)
+            for (int i = 0; i < 7; i++)
             {
-                //Joker number is red
-                if(i == 7)
-                    Console.ForegroundColor = ConsoleColor.Red;
+                int newNumber = rng.Next(1, 37);
+                //Control for the number is taken
+                while (lotterynumbers.Contains(newNumber))
+                {
+                    newNumber = rng.Next(1, 37);
+                }
+                //Save the number
+                lotterynumbers[i] = newNumber;
+            }            
 
-                //write the number to the user
-                Console.Write(rng.Next(1,37) + " ");
-
+            Array.Sort(lotterynumbers);
+            //write the number to the user
+            for (int i = 0; i < lotterynumbers.Length; i++)
+            {               
+                Console.Write(lotterynumbers[i] + " ");
                 //Set the Thread to sleep for 2 seconds
-                Thread.Sleep(2000);
+                Thread.Sleep(000);
             }
+
+            int jokerNumber = rng.Next(1, 37);
+            //Joker number is red
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write(jokerNumber);
 
             //Stops the program from stopping
             Console.ReadLine();
