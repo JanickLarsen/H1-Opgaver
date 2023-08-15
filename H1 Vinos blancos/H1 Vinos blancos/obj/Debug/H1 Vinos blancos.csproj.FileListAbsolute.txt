@@ -1,0 +1,8 @@
+C:\Users\zbc23jakl\source\repos\H1 Vinos blancos\H1 Vinos blancos\bin\Debug\H1 Vinos blancos.exe.config
+C:\Users\zbc23jakl\source\repos\H1 Vinos blancos\H1 Vinos blancos\bin\Debug\H1 Vinos blancos.exe
+C:\Users\zbc23jakl\source\repos\H1 Vinos blancos\H1 Vinos blancos\bin\Debug\H1 Vinos blancos.pdb
+C:\Users\zbc23jakl\source\repos\H1 Vinos blancos\H1 Vinos blancos\obj\Debug\H1 Vinos blancos.csproj.AssemblyReference.cache
+C:\Users\zbc23jakl\source\repos\H1 Vinos blancos\H1 Vinos blancos\obj\Debug\H1 Vinos blancos.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23jakl\source\repos\H1 Vinos blancos\H1 Vinos blancos\obj\Debug\H1 Vinos blancos.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 Vinos blancos\H1 Vinos blancos\obj\Debug\H1 Vinos blancos.exe
+C:\Users\zbc23jakl\source\repos\H1 Vinos blancos\H1 Vinos blancos\obj\Debug\H1 Vinos blancos.pdb
