@@ -1,10 +1,13 @@
---USE master;
-
---DROP DATABASE epiccinesystemDB;
-
 --CREATE DATABASE epiccinesystemDB;
+use master
 
-USE epiccinesystemDB;
+IF EXISTS (SELECT * from sys.databases WHERE name =	'epiccinesystemDB')
+BEGIN
+	DROP DATABASE epiccinesystemDB;
+END;
+CREATE DATABASE epiccinesystemDB;
+
+use epiccinesystemDB;
 
 CREATE TABLE Hall (
 hall_ID int NOT NULL PRIMARY KEY,
@@ -73,23 +76,16 @@ movie_ID int FOREIGN KEY REFERENCES Movie(movie_ID) NOT NULL,
 director_ID int FOREIGN KEY REFERENCES Director(director_ID) NOT NULL
 );
 
-SELECT *
-FROM Hall;
-SELECT *
-FROM Participant;
-SELECT *
-FROM Actor;
-SELECT *
-FROM Director;
-SELECT *
-FROM Movie;
-SELECT *
-FROM IMAX;
-SELECT *
-FROM Ticket;
-SELECT *
-FROM Showing;
-SELECT *
-FROM ActorInMovie;
-SELECT *
-FROM DirectorOfMovie;
+
+
+
+SELECT * from Hall
+SELECT * from Participant
+SELECT * from Actor
+SELECT * from Director
+SELECT * from Movie
+SELECT * from IMAX
+SELECT * from Ticket
+SELECT * from Showing
+SELECT * from ActorInMovie
+SELECT * from DirectorOfMovie
