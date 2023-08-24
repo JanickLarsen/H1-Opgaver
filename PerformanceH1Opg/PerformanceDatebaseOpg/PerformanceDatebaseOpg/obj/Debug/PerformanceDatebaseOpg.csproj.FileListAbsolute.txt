@@ -1,0 +1,8 @@
+C:\Users\zbc23jakl\source\repos\PerformanceDatebaseOpg\PerformanceDatebaseOpg\obj\Debug\PerformanceDatebaseOpg.csproj.AssemblyReference.cache
+C:\Users\zbc23jakl\source\repos\PerformanceDatebaseOpg\PerformanceDatebaseOpg\obj\Debug\PerformanceDatebaseOpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23jakl\source\repos\PerformanceDatebaseOpg\PerformanceDatebaseOpg\obj\Debug\PerformanceDatebaseOpg.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\PerformanceDatebaseOpg\PerformanceDatebaseOpg\bin\Debug\PerformanceDatebaseOpg.exe.config
+C:\Users\zbc23jakl\source\repos\PerformanceDatebaseOpg\PerformanceDatebaseOpg\bin\Debug\PerformanceDatebaseOpg.exe
+C:\Users\zbc23jakl\source\repos\PerformanceDatebaseOpg\PerformanceDatebaseOpg\bin\Debug\PerformanceDatebaseOpg.pdb
+C:\Users\zbc23jakl\source\repos\PerformanceDatebaseOpg\PerformanceDatebaseOpg\obj\Debug\PerformanceDatebaseOpg.exe
+C:\Users\zbc23jakl\source\repos\PerformanceDatebaseOpg\PerformanceDatebaseOpg\obj\Debug\PerformanceDatebaseOpg.pdb
