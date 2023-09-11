@@ -1,0 +1,8 @@
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Elon-s-nye-satsning\H1 Elon’s nye satsning\bin\Debug\H1 Elon’s nye satsning.exe.config
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Elon-s-nye-satsning\H1 Elon’s nye satsning\bin\Debug\H1 Elon’s nye satsning.exe
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Elon-s-nye-satsning\H1 Elon’s nye satsning\bin\Debug\H1 Elon’s nye satsning.pdb
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Elon-s-nye-satsning\H1 Elon’s nye satsning\obj\Debug\H1 Elon’s nye satsning.csproj.AssemblyReference.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Elon-s-nye-satsning\H1 Elon’s nye satsning\obj\Debug\H1 Elon’s nye satsning.csproj.SuggestedBindingRedirects.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Elon-s-nye-satsning\H1 Elon’s nye satsning\obj\Debug\H1 Elon’s nye satsning.csproj.CoreCompileInputs.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Elon-s-nye-satsning\H1 Elon’s nye satsning\obj\Debug\H1 Elon’s nye satsning.exe
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Elon-s-nye-satsning\H1 Elon’s nye satsning\obj\Debug\H1 Elon’s nye satsning.pdb
