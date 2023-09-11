@@ -21,7 +21,7 @@ namespace H1_Superheltene
         private bool _mask = true;
     #endregion
 
-    #region encapsulation
+    #region Encapsulation
         public string SuperheroName 
         { 
             get { return _superheroName; }
