@@ -32,7 +32,7 @@ namespace H1_Superheltene
             get { return _name; }
             private set { _name = value; }
         }
-        public int Age
+        public byte Age
         {
             get { return _age; }
             set { _age = value; }
