@@ -14,7 +14,7 @@ namespace H1_Superheltene
     #region Properties
         private string _superheroName = "";
         private string _name = "";
-        private int _age = -1;
+        private byte _age = 0;
         private string[] _abilities = { "" };
         private string[] _moralCode = { "" };
         private string[] _archenemys = { "" };
