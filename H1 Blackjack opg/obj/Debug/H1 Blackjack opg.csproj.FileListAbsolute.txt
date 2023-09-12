@@ -1,0 +1,8 @@
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Blackjack-opg\H1 Blackjack opg\obj\Debug\H1 Blackjack opg.csproj.AssemblyReference.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Blackjack-opg\H1 Blackjack opg\obj\Debug\H1 Blackjack opg.csproj.SuggestedBindingRedirects.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Blackjack-opg\H1 Blackjack opg\obj\Debug\H1 Blackjack opg.csproj.CoreCompileInputs.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Blackjack-opg\H1 Blackjack opg\bin\Debug\H1 Blackjack opg.exe.config
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Blackjack-opg\H1 Blackjack opg\bin\Debug\H1 Blackjack opg.exe
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Blackjack-opg\H1 Blackjack opg\bin\Debug\H1 Blackjack opg.pdb
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Blackjack-opg\H1 Blackjack opg\obj\Debug\H1 Blackjack opg.exe
+C:\Users\janic\Source\Repos\JanickLarsen\H1-Blackjack-opg\H1 Blackjack opg\obj\Debug\H1 Blackjack opg.pdb
