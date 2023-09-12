@@ -1,0 +1,8 @@
+C:\Users\zbc23jakl\source\repos\H1 Robotterne kommer\H1 Robotterne kommer\bin\Debug\H1 Robotterne kommer.exe.config
+C:\Users\zbc23jakl\source\repos\H1 Robotterne kommer\H1 Robotterne kommer\bin\Debug\H1 Robotterne kommer.exe
+C:\Users\zbc23jakl\source\repos\H1 Robotterne kommer\H1 Robotterne kommer\bin\Debug\H1 Robotterne kommer.pdb
+C:\Users\zbc23jakl\source\repos\H1 Robotterne kommer\H1 Robotterne kommer\obj\Debug\H1 Robotterne kommer.csproj.AssemblyReference.cache
+C:\Users\zbc23jakl\source\repos\H1 Robotterne kommer\H1 Robotterne kommer\obj\Debug\H1 Robotterne kommer.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23jakl\source\repos\H1 Robotterne kommer\H1 Robotterne kommer\obj\Debug\H1 Robotterne kommer.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 Robotterne kommer\H1 Robotterne kommer\obj\Debug\H1 Robotterne kommer.exe
+C:\Users\zbc23jakl\source\repos\H1 Robotterne kommer\H1 Robotterne kommer\obj\Debug\H1 Robotterne kommer.pdb
