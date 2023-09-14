@@ -77,11 +77,14 @@ namespace H1_En_tur_på_biblioteket
             Console.WriteLine("This is the list of your borrowed books");
 
             //display borrowed books
-            Console.WriteLine(stack.Peek().Title + " -> " + stack.Peek().Description);
-            for (int i = 0; i <= stack.Count; i++)
-            {              
-                stack.Pop();
-                Console.WriteLine(stack.Peek().Title + " -> " + stack.Peek().Description);
+            if (stack.Count > 0)
+            {
+                for (int i = 0; i <= stack.Count; i++)
+                {
+                    Console.WriteLine(stack.Peek().Title + " -> " + stack.Peek().Description);
+                    stack.Pop();
+                        
+                }
             }
             Console.ReadLine();
         }
