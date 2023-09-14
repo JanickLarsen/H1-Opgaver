@@ -1,0 +1,7 @@
+C:\Users\zbc23jakl\source\repos\H1 En tur på biblioteket\H1 En tur på biblioteket\bin\Debug\H1 En tur på biblioteket.exe.config
+C:\Users\zbc23jakl\source\repos\H1 En tur på biblioteket\H1 En tur på biblioteket\bin\Debug\H1 En tur på biblioteket.exe
+C:\Users\zbc23jakl\source\repos\H1 En tur på biblioteket\H1 En tur på biblioteket\bin\Debug\H1 En tur på biblioteket.pdb
+C:\Users\zbc23jakl\source\repos\H1 En tur på biblioteket\H1 En tur på biblioteket\obj\Debug\H1 En tur på biblioteket.csproj.AssemblyReference.cache
+C:\Users\zbc23jakl\source\repos\H1 En tur på biblioteket\H1 En tur på biblioteket\obj\Debug\H1 En tur på biblioteket.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 En tur på biblioteket\H1 En tur på biblioteket\obj\Debug\H1 En tur på biblioteket.exe
+C:\Users\zbc23jakl\source\repos\H1 En tur på biblioteket\H1 En tur på biblioteket\obj\Debug\H1 En tur på biblioteket.pdb
