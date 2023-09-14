@@ -1,0 +1,22 @@
+Brainstorming:
+
+En donut-shop skal kunne sælge donuts til kunder. Shoppen vil have en arrangement af forskellige donuts,
+med forskellige smag/design. 
+Hermed skal der laves et menu-system, hvor man kan se hvor mange donuts buitikken har. Det skal være muligt
+at tilføjet donuts, men også fjerne donuts som ikke er så populære. Udover dette, skal man kunne se
+hele menuen, og også være i stand til at finde en specific donut.
+
+Der skal også være en mulighed for at afslutte programmet.
+
+==================================================
+Donut
+==================================================
+1. Add donut
+2. Delete donut
+3. Show the number of donuts
+4. Show min and max items
+5. Find a donut
+6. Print all donuts
+7. Exit
+
+Enter your choice: {Input}

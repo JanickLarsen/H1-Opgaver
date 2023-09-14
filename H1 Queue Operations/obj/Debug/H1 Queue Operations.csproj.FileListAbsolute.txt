@@ -1,0 +1,7 @@
+C:\Users\zbc23jakl\source\repos\H1 Queue Operations\H1 Queue Operations\bin\Debug\H1 Queue Operations.exe.config
+C:\Users\zbc23jakl\source\repos\H1 Queue Operations\H1 Queue Operations\bin\Debug\H1 Queue Operations.exe
+C:\Users\zbc23jakl\source\repos\H1 Queue Operations\H1 Queue Operations\bin\Debug\H1 Queue Operations.pdb
+C:\Users\zbc23jakl\source\repos\H1 Queue Operations\H1 Queue Operations\obj\Debug\H1 Queue Operations.csproj.AssemblyReference.cache
+C:\Users\zbc23jakl\source\repos\H1 Queue Operations\H1 Queue Operations\obj\Debug\H1 Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 Queue Operations\H1 Queue Operations\obj\Debug\H1 Queue Operations.exe
+C:\Users\zbc23jakl\source\repos\H1 Queue Operations\H1 Queue Operations\obj\Debug\H1 Queue Operations.pdb
