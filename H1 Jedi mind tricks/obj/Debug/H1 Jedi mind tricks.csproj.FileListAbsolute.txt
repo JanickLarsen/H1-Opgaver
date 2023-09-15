@@ -1,0 +1,7 @@
+C:\Users\zbc23jakl\source\repos\H1 Jedi mind tricks\H1 Jedi mind tricks\bin\Debug\H1 Jedi mind tricks.exe.config
+C:\Users\zbc23jakl\source\repos\H1 Jedi mind tricks\H1 Jedi mind tricks\bin\Debug\H1 Jedi mind tricks.exe
+C:\Users\zbc23jakl\source\repos\H1 Jedi mind tricks\H1 Jedi mind tricks\bin\Debug\H1 Jedi mind tricks.pdb
+C:\Users\zbc23jakl\source\repos\H1 Jedi mind tricks\H1 Jedi mind tricks\obj\Debug\H1 Jedi mind tricks.csproj.AssemblyReference.cache
+C:\Users\zbc23jakl\source\repos\H1 Jedi mind tricks\H1 Jedi mind tricks\obj\Debug\H1 Jedi mind tricks.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 Jedi mind tricks\H1 Jedi mind tricks\obj\Debug\H1 Jedi mind tricks.exe
+C:\Users\zbc23jakl\source\repos\H1 Jedi mind tricks\H1 Jedi mind tricks\obj\Debug\H1 Jedi mind tricks.pdb
