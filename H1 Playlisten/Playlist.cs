@@ -14,7 +14,7 @@ namespace H1_Playlisten
 
         private string _name;
 
-         private LinkedList<Song> _songs = new LinkedList<Song>();
+        private LinkedList<Song> _songs = new LinkedList<Song>();
 
         public string Name
         {
