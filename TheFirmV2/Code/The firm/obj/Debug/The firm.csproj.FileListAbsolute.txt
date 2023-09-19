@@ -1,0 +1,8 @@
+C:\Users\janic\Source\Repos\JanickLarsen\The-firm\The firm\obj\Debug\The firm.csproj.AssemblyReference.cache
+C:\Users\janic\Source\Repos\JanickLarsen\The-firm\The firm\obj\Debug\The firm.csproj.SuggestedBindingRedirects.cache
+C:\Users\janic\Source\Repos\JanickLarsen\The-firm\The firm\obj\Debug\The firm.csproj.CoreCompileInputs.cache
+C:\Users\janic\Source\Repos\JanickLarsen\The-firm\The firm\bin\Debug\The firm.exe.config
+C:\Users\janic\Source\Repos\JanickLarsen\The-firm\The firm\bin\Debug\The firm.exe
+C:\Users\janic\Source\Repos\JanickLarsen\The-firm\The firm\bin\Debug\The firm.pdb
+C:\Users\janic\Source\Repos\JanickLarsen\The-firm\The firm\obj\Debug\The firm.exe
+C:\Users\janic\Source\Repos\JanickLarsen\The-firm\The firm\obj\Debug\The firm.pdb
