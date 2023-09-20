@@ -1,0 +1,8 @@
+C:\Users\janic\Source\Repos\JanickLarsen\H1-opdr-tterstation\H1 opdrætterstation\bin\Debug\H1 opdrætterstation.exe.config
+C:\Users\janic\Source\Repos\JanickLarsen\H1-opdr-tterstation\H1 opdrætterstation\bin\Debug\H1 opdrætterstation.exe
+C:\Users\janic\Source\Repos\JanickLarsen\H1-opdr-tterstation\H1 opdrætterstation\bin\Debug\H1 opdrætterstation.pdb
+C:\Users\janic\Source\Repos\JanickLarsen\H1-opdr-tterstation\H1 opdrætterstation\obj\Debug\H1 opdrætterstation.csproj.AssemblyReference.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-opdr-tterstation\H1 opdrætterstation\obj\Debug\H1 opdrætterstation.csproj.SuggestedBindingRedirects.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-opdr-tterstation\H1 opdrætterstation\obj\Debug\H1 opdrætterstation.csproj.CoreCompileInputs.cache
+C:\Users\janic\Source\Repos\JanickLarsen\H1-opdr-tterstation\H1 opdrætterstation\obj\Debug\H1 opdrætterstation.exe
+C:\Users\janic\Source\Repos\JanickLarsen\H1-opdr-tterstation\H1 opdrætterstation\obj\Debug\H1 opdrætterstation.pdb
