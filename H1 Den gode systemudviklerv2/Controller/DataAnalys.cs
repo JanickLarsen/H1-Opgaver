@@ -1,4 +1,4 @@
-﻿using H1_Den_gode_systemudviklerv2.Model;
+using H1_Den_gode_systemudviklerv2.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,12 +17,27 @@ namespace H1_Den_gode_systemudviklerv2.Controller
         /// </summary>
         public void MakeDateAnalys()
         {
-            string filePath = "C:\\Users\\zbc23jakl\\Documents\\alarm.txt";
-
+            string filePath = "C:\\Users\\zbc23jakl\\Documents\\alarm.tx";
             View.Gui gui = new View.Gui();
-            Data data = new Data();           
-            string text = data.GetTextFromFile(filePath); //Gets all the text from the file 
-            gui.DisplayDataAnalysis(filePath, text.Length, data.GetFileSize(filePath), text);
+            Data data = new Data();
+            try
+            {
+                string text = data.GetTextFromFile(filePath); //Gets all the text from the file 
+                gui.DisplayDataAnalysis(filePath, text.Length, data.GetFileSize(filePath), text);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("file does not exist");
+            }
+            catch (IOException)
+            {
+                Console.WriteLine("A error while reading the file");
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("File is not the current format try to see if the file has .txt");
+            }
+
         }
     }
 }
