@@ -1,0 +1,14 @@
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\bin\Debug\net7.0\H1 Den gode systemudviklerv2.exe
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\bin\Debug\net7.0\H1 Den gode systemudviklerv2.deps.json
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\bin\Debug\net7.0\H1 Den gode systemudviklerv2.runtimeconfig.json
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\bin\Debug\net7.0\H1 Den gode systemudviklerv2.dll
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\bin\Debug\net7.0\H1 Den gode systemudviklerv2.pdb
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\H1 Den gode systemudviklerv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\H1 Den gode systemudviklerv2.AssemblyInfoInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\H1 Den gode systemudviklerv2.AssemblyInfo.cs
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\H1 Den gode systemudviklerv2.csproj.CoreCompileInputs.cache
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\H1 Den gode systemudviklerv2.dll
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\refint\H1 Den gode systemudviklerv2.dll
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\H1 Den gode systemudviklerv2.pdb
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\H1 Den gode systemudviklerv2.genruntimeconfig.cache
+C:\Users\zbc23jakl\source\repos\H1 Den gode systemudviklerv2\H1 Den gode systemudviklerv2\obj\Debug\net7.0\ref\H1 Den gode systemudviklerv2.dll
